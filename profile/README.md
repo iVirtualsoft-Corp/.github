@@ -48,6 +48,13 @@ We'd like to understand what you're working on.
 **Website:** https://www.ivirtualsoft.com  
 **Email:** info@ivirtualsoft.com
 
+## Connect With Us
+
+- [LinkedIn](https://www.linkedin.com/company/ivirtualsoft-ai-solutions/)
+- [Instagram](https://www.instagram.com/ivirtualsoft.ai/)
+- [X (Twitter)](https://x.com/ivirtualsoft_ai)
+- [YouTube](https://www.youtube.com/@ivirtualsoftaisolutions)
+
 ---
 
 *Engineering what comes next.*
